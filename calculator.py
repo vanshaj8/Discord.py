@@ -66,4 +66,4 @@ async def on_ready():
         print(f'{client.user.name} is online')
 
 
-client.run("ODEzNTIxMjAyODk1MTI2NTQ4.YDQgqQ.r0pFPrxskn2Y0zwnSATpneT3KbQ")
+client.run("Your token")
