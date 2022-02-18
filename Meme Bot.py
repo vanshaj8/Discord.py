@@ -68,7 +68,7 @@ async def die(ctx):
 
 # Reddit PRAW LIBRARY
 
-reddit=praw.Reddit(client_id="3UzM7zWmKN7XRg",client_secret="Km6OR_sKYNHJ6cnsaJEEJPlzN1Vomg",username="vanshaj8",password="vanshaj@8",user_agent="pythonpraw",check_for_async=False)
+reddit=praw.Reddit(client_id="3UzM7zWmKN7XRg",client_secret="Km6OR_sKYNHJ6cnsaJEEJPlzN1Vomg",username="your username",password="your passowrd",user_agent="pythonpraw",check_for_async=False)
 
 @client.command(name='meme',help='Displays Memes')
 async def meme(ctx):
